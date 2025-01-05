@@ -1,0 +1,13 @@
+C:\Users\tayya\source\Repos\WebHook.API\WebHook.API.ServiceDefaults\bin\Debug\net9.0\WebHook.API.ServiceDefaults.deps.json
+C:\Users\tayya\source\Repos\WebHook.API\WebHook.API.ServiceDefaults\bin\Debug\net9.0\WebHook.API.ServiceDefaults.dll
+C:\Users\tayya\source\Repos\WebHook.API\WebHook.API.ServiceDefaults\bin\Debug\net9.0\WebHook.API.ServiceDefaults.pdb
+C:\Users\tayya\source\Repos\WebHook.API\WebHook.API.ServiceDefaults\obj\Debug\net9.0\WebHook.API.ServiceDefaults.csproj.AssemblyReference.cache
+C:\Users\tayya\source\Repos\WebHook.API\WebHook.API.ServiceDefaults\obj\Debug\net9.0\WebHook.API.ServiceDefaults.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tayya\source\Repos\WebHook.API\WebHook.API.ServiceDefaults\obj\Debug\net9.0\WebHook.API.ServiceDefaults.AssemblyInfoInputs.cache
+C:\Users\tayya\source\Repos\WebHook.API\WebHook.API.ServiceDefaults\obj\Debug\net9.0\WebHook.API.ServiceDefaults.AssemblyInfo.cs
+C:\Users\tayya\source\Repos\WebHook.API\WebHook.API.ServiceDefaults\obj\Debug\net9.0\WebHook.API.ServiceDefaults.csproj.CoreCompileInputs.cache
+C:\Users\tayya\source\Repos\WebHook.API\WebHook.API.ServiceDefaults\obj\Debug\net9.0\WebHook.API.ServiceDefaults.sourcelink.json
+C:\Users\tayya\source\Repos\WebHook.API\WebHook.API.ServiceDefaults\obj\Debug\net9.0\WebHook.API.ServiceDefaults.dll
+C:\Users\tayya\source\Repos\WebHook.API\WebHook.API.ServiceDefaults\obj\Debug\net9.0\refint\WebHook.API.ServiceDefaults.dll
+C:\Users\tayya\source\Repos\WebHook.API\WebHook.API.ServiceDefaults\obj\Debug\net9.0\WebHook.API.ServiceDefaults.pdb
+C:\Users\tayya\source\Repos\WebHook.API\WebHook.API.ServiceDefaults\obj\Debug\net9.0\ref\WebHook.API.ServiceDefaults.dll
